@@ -1,0 +1,11 @@
+streamlit
+pandas
+folium
+streamlit-folium
+seaborn
+matplotlib
+numpy
+statsmodels
+geopy
+tqdm
+simplekml
